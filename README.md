@@ -7,5 +7,5 @@
 #### 2024.02.01 
 
 
-### - [*스택(Stack)*](https://github.com/ParkJiHwan22/TIL/tree/main/TIL_Repositories/Back-end)
+### - [*스택(Stack)*](https://github.com/JH-Algorithm-Study/Assignment/tree/main/day_05_Stack)
 #### 2024.02.05 
