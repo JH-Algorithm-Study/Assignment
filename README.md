@@ -9,3 +9,6 @@
 
 ### - [*스택(Stack)*](https://github.com/JH-Algorithm-Study/Assignment/tree/main/day_05_Stack)
 #### 2024.02.05 
+
+### - [*스택2(Stack2)*](https://github.com/JH-Algorithm-Study/Assignment/tree/main/day_06_Stack_2)
+#### 2024.02.06
