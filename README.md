@@ -16,3 +16,5 @@
 ### - [*큐(Queue)*](https://github.com/JH-Algorithm-Study/Assignment/tree/main/day_07_Queue)
 #### 2024.02.07
 
+### - [*큐(Queue2)*](https://github.com/JH-Algorithm-Study/Assignment/tree/main/day_08_Queue_2)
+#### 2024.02.08
